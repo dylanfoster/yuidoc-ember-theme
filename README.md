@@ -1,6 +1,6 @@
 # YUIDoc Parch Theme
 
-[![npm version](https://badge.fury.io/js/yuidoc-ember-theme.svg)](http://badge.fury.io/js/yuidoc-parch-theme)
+[![npm version](https://badge.fury.io/js/yuidoc-parch-theme.svg)](http://badge.fury.io/js/yuidoc-parch-theme)
 
 An YUIDoc theme based on [yuidoc-ember-theme](https://github.com/offirgolan/yuidoc-ember-theme)
 
